@@ -1,7 +1,13 @@
 # Houda Haidar
-_Astrophysics PhD candidate, black hole enthusiast & climate activist_ 
+
+ > _Astrophysics PhD candidate, black hole enthusiast & climate activist_ 
 
 📍Newcastle-upon-Tyne, England.
+
+![houda_reads](https://user-images.githubusercontent.com/74595294/187950105-557817c1-4e05-4c8b-b4e2-fd2eb23fcdfd.png)
+
+
+
 
 
 [Email](mailto:houda.physics@gmail.com) / [LinkedIn](https://www.linkedin.com/in/houdahaidar/) 
@@ -31,8 +37,11 @@ _Sept. 2017 - July 2020_   **BSc in Astrophysics  | [Queen Mary University of Lo
 
 ## Research Experience 🔭
 
-
 write here...
+
+
+
+
 
 
 ## Programs & Languages 💻
