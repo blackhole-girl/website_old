@@ -1,4 +1,6 @@
-# Houda Haidar
+
+# Houda Haidar 
+(pronounced: Hoo-dah Hay-dər)
 
  _Astrophysics PhD candidate, black hole enthusiast, plant-based cook & environmentalist_ 
 
