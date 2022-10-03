@@ -2,7 +2,7 @@
 # Houda Haidar 
 (pronounced: Hoo-dah Hi-dər)
  
-Hi there! 😀 Houda here. I am an astrophysics PhD student at Newcastle University. I obtained my Masters degree from Observatoire de Paris - PSL (with research projects & collaborations at Institut d'Astrophysique de Paris (IAP) & Max-Planck Institut fur Astronomie (MPIA)). Prior to this, I gained my bachelors degree in Astrophysics at Queen Mary University of London (QMUL).
+Hi there! 😀 Houda here. I am an astrophysics PhD student at Newcastle University. I have  obtained my Masters degree from Observatoire de Paris - PSL (with research & collaborations at Institut d'Astrophysique de Paris (IAP) & Max-Planck Institut fur Astronomie (MPIA)). Prior to this, I have  gained my bachelors degree in Astrophysics from Queen Mary University of London (QMUL).
  
 
 My research interests lie within the field of galaxy formation and evolution. More specifically, I am interested in understanding how supermassive black holes form, grow and evolve in symbiosis with their host galaxies. When active, these space monsters release an enormous amount of energy, so much that they can shine brighter than their host galaxy. Under this state, we refer to them as active galactic nuclei (AGN). Energy released from AGN can be seen in the form of jets, winds and outflows (i.e., Feedback). My PhD project focuses on understanding the interplay between AGN and their host galaxy using the unprecedented data from the James Webb Space telescope (JWST). My project is part of the GATOS collaboration, a survey lead by AGN experts from all around the world providing a multi-phase and multi-wavelength study of AGN outflows.
