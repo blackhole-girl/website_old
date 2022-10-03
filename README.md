@@ -86,5 +86,5 @@ A numerically conducted research project, where I calibrated the PL relation usi
 **Haidar**, Habouzit, Volonteri, Mezcua, Greene, Neumayer, Anglés-Alcazar, Martin-Navarro, Hoyer, Dubois, Davé. _``The black hole population in low-mass galaxies in large-scale cosmological simulations''_.  Published in MNRAS 2022, available [here](https://academic.oup.com/mnras/article-abstract/514/4/4912/6609506)
 
 
-**Haidar**, Mamon and co (in prep).  _``Who turned the lights off? And When?: Quenching insights in IllustrisTNG''_
+**Haidar & Mamon** (in prep, 2022/2023).  _``Who turned the lights off? And When?: Quenching insights in IllustrisTNG''_
 
