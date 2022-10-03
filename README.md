@@ -38,6 +38,8 @@ _Sept. 2017 - July 2020_   **BSc in Astrophysics  | [Queen Mary University of Lo
 ## Research Experience 🔭
 
 _Jan. 2022 - July 2022_   **[Institut d'Astrophysique de Paris](https://www.iap.fr)**  <br>
+Investigating how low-mass satellite galaxies lose their ability to form stars (i.e., quench) while joining a new cluster by tracing forward in time their evolution from (z=1 to z=0), and exploring the possible quenching mechanisms (e.g., ram pressure stripping, AGN feedback)
+
  - Supervised by:  Dr. Gary Mamon
  - Master Thesis title: Who turned the lights off? And when?: Quenching insights in IllustrisTNG
  - Relevant Skills: Theoretical, Computational, and Analytical  Modelling
@@ -82,4 +84,7 @@ A numerically conducted research project, where I calibrated the PL relation usi
 ## Publications 📜
 
 **Haidar**, Habouzit, Volonteri, Mezcua, Greene, Neumayer, Anglés-Alcazar, Martin-Navarro, Hoyer, Dubois, Davé. _``The black hole population in low-mass galaxies in large-scale cosmological simulations''_.  Published in MNRAS 2022, available [here](https://academic.oup.com/mnras/article-abstract/514/4/4912/6609506)
+
+
+**Haidar**, Mamon and co (in prep).  _``Who turned the lights off? And When?: Quenching insights in IllustrisTNG''_
 
