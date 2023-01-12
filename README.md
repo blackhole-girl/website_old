@@ -1,7 +1,7 @@
 
 # Houda Haidar 
 (pronounced: Hoo-dah Hi-dər)
-![houda_reads](https://user-images.githubusercontent.com/74595294/187956083-c04c64aa-4789-4bca-a467-ab207b779b41.png)
+<img width="1000" alt="image" src="https://user-images.githubusercontent.com/74595294/212114783-9bc227bb-d6d0-46ce-baf8-c8eaffbfbf4e.png" >
 
 📍Newcastle-upon-Tyne, England.
 
