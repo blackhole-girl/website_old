@@ -81,7 +81,7 @@ A numerically conducted research project, where I calibrated the PL relation usi
 
 ## Interests 
 <br>
-👩🏻‍🎨 Digital Art (Procreate designs)
+👩🏻‍🎨 Digital Art (Procreate designs)<br>
 📝 Creative writing (I like to write poems & short stories)<br>
 👩🏻‍🍳 Cook (Making delicious plant based meals)<br>
 ♛♖ Chess (definitely not an expert but enjoys playing it)
