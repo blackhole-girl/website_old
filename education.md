@@ -1,4 +1,4 @@
-### Education 👩🏻‍🏫🪐
+1. Education 👩🏻‍🏫🪐
 
 _Sept. 2022 - Present_   **PhD in Physics (Theoretical)  | [Newcastle Univeristy](https://www.ncl.ac.uk/maths-physics/)**  <br>
 Thesis title: Understanding the connections between supermassive black holes and galaxies with the James Webb Space Telescope.
@@ -19,7 +19,7 @@ _Sept. 2017 - July 2020_   **BSc in Astrophysics  | [Queen Mary University of Lo
  - Awarded: International Excellence Scholarship
 <br><br>
 
-### Research Experience 🔭
+2. Research Experience 🔭
 
 _Jan. 2022 - July 2022_   **[Institut d'Astrophysique de Paris](https://www.iap.fr)**  <br>
 Investigating how low-mass satellite galaxies lose their ability to form stars (i.e., quench) while joining a new cluster by tracing forward in time their evolution from (z=1 to z=0), and exploring the possible quenching mechanisms (e.g., ram pressure stripping, AGN feedback)
