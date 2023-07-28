@@ -1,3 +1,9 @@
+---
+layout: page
+title:  Education 👩🏻‍🏫🪐 & Research Experience 🔭
+permalink: /Education/
+---
+
 1. Education 👩🏻‍🏫🪐
 
 _Sept. 2022 - Present_   **PhD in Physics (Theoretical)  | [Newcastle Univeristy](https://www.ncl.ac.uk/maths-physics/)**  <br>
