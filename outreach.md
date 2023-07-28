@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Outreach projects 💫
+title: Outreach projects 
 permalink: /Outreach/
 ---
 
