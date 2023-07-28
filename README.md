@@ -13,21 +13,8 @@
 
 
 
-## Programs & Languages 💻
- <br>
---> Proficient with: Python, C, Fortran, GitHub, Unix, LaTeX, VizieR, Simbad & the use of Computer Clusters
 
---> Fluent in:  English 🇬🇧, French 🇫🇷, Arabic 🇲🇦 & German (A2)🇩🇪
- <br> <br>
 
-## Interests 
-<br>
-👩🏻‍🎨 Digital Art (Procreate designs)<br>
-📝 Creative writing (I like to write poems & short stories)<br>
-👩🏻‍🍳 Cook (Making delicious plant based meals)<br>
-♛♖ Chess (definitely not an expert but enjoys playing it)
-🌱 Environment (Actively doing my part to keep our planet habitable)<br>
-<br>
 
 ## Publications 📜
 
