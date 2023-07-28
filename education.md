@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Education 👩🏻‍🏫🪐 & Research Experience 🔭
+title:  Education & Research Experience
 permalink: /Education/
 ---
 
