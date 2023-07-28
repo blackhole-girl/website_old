@@ -5,7 +5,7 @@ theme: minima
 
 # Site settings
 title: Houda Haidar
-description: Astrophysics PhD student
+description: Astrophysics PhD student at Newcastle University 
 # baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://blackhole-girl.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
@@ -13,7 +13,7 @@ url: "https://blackhole-girl.github.io" # the base hostname & protocol for your 
 #username: Houda Haudar
 #user_description:  to do
 #user_title: Astrophysics PhD student
-#email: to do
+email: houda.physics@gmail.com
 # twitter_username: blackholephd
 #linkedin_username: 
 #github_username:  murraco
