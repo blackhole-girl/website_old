@@ -3,7 +3,9 @@ layout: page
 title: Outreach projects 
 permalink: /Outreach/
 ---
+I take part of various outreach schemes, here are some of them
 
-- Audio Universe Exhibition at the Great Northern Museum  (October 2022,Newcastle-upon-Tyne, England)
-- Audio Universe School workshop (February 2023, Newcastle-upon-Tyne, England)
-- Native Scientist black hole workshop (March 2023, London, England)
+- Native Scientist (Science workshops for Arabic-Speaking refugees)
+- Piscopia Initiative (Local committee at Newcastle)
+- Audio Universe (Workshops for school visits)
+- Greenwhich Observatory (Planetarium shows open to all)
