@@ -25,4 +25,8 @@
 Born and raised in Morocco, becoming an astrophysicist was a dream and challenge I was committed to against all odds. Today, as an astrophysicist, I hope to help under-represented people to pursue an education in STEM. In my free time, I enjoy creating digital arts and cooking delicious vegan meals.
 
 
+![logo_personal_website](https://github.com/blackhole-girl/website/assets/74595294/37aff615-7cc3-4fde-b4b4-3cf4ba45e61b)
+
+
+
 
