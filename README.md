@@ -10,7 +10,7 @@
 <div style="display: flex; align-items: start;">
   <!-- Image part -->
   <div>
-    <img src="HoudaHaidar.jpeg" alt="Description" width="4000"/>
+    <img src="HoudaHaidar.jpg" alt="Description" width="4000"/>
   </div>
   
   <!-- Text part on the right side of the image -->
