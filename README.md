@@ -4,7 +4,7 @@
 
 
 <div style="display: flex;">
-  <img src="path_to_your_image.jpg" alt="Description" width="300"/>
+  <img src="HoudaHaidar.jpeg" alt="Houda Haidar" width="300"/>
   <p>
      
    Hi There, Houda Here :-).
