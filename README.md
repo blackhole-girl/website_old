@@ -9,7 +9,7 @@
 
   <!-- Image part -->
   <div style="margin-right: 30px;"> <!-- Add margin to the right -->
-    <img src="HoudaHaidar.jpeg" alt="Description" width="200"/>
+    <img src="HoudaHaidar.jpeg" alt="Description" width="700"/>
   </div>
   
   <!-- Text part on the right side of the image -->
