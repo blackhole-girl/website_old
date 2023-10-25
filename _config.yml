@@ -1,4 +1,5 @@
 theme: minimal
+
 #theme : Huxpro 
 #title: 🔭🌌🚀💻
 #description: Houda Haidar's CV
@@ -22,3 +23,6 @@ email: houda.physics@gmail.com
 # gplus_username:  lorem_ipsum
 
 #exclude: ['package.json', 'src', 'node_modules', 'vendor']
+
+include:
+  - custom.css
