@@ -27,3 +27,9 @@ email: houda.physics@gmail.com
 
 #exclude: ['package.json', 'src', 'node_modules', 'vendor']
 
+# Navigation
+header_pages:
+  - README.md
+  - outreach.md
+  - research.md
+  # add any other pages you want in the navigation
