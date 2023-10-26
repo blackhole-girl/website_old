@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="/custom.css">
+
 
 [Email](mailto:houda.physics@gmail.com) / [LinkedIn](https://www.linkedin.com/in/houdahaidar/) / [Twitter](https://twitter.com/blackholephd)
 
