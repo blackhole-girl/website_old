@@ -1,4 +1,7 @@
-theme: minima
+#theme: Cayman
+minima:
+  skin: default # This ensures Minima's default skin is used.
+  custom_css: "custom.css" # This points to your custom.css in the assets directory.
 
 #theme : Huxpro 
 #title: 🔭🌌🚀💻
@@ -24,5 +27,3 @@ email: houda.physics@gmail.com
 
 #exclude: ['package.json', 'src', 'node_modules', 'vendor']
 
-include:
-  - custom.css
