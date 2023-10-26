@@ -1,6 +1,6 @@
 #theme: Cayman
 minima:
-  skin: default # This ensures Minima's default skin is used.
+  skin: black # This ensures Minima's default skin is used.
   custom_css: "custom.css" # This points to your custom.css in the assets directory.
 
 
