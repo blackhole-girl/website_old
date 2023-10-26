@@ -1,39 +1,17 @@
 theme: minima
 
-#minima:
-  #skin: black # This ensures Minima's default skin is used.
-  #custom_css: "custom.css" # This points to your custom.css in the assets directory.
-
-
-#theme : Huxpro 
-#title: 🔭🌌🚀💻
-#description: Houda Haidar's CV
+footer_text: >
+  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 
 # Site settings
 title: Houda Haidar
 description: Astrophysics PhD student at Newcastle University 
-# baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://blackhole-girl.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: "https://blackhole-girl.github.io" 
 
-# User settings
-#username: Houda Haudar
-#user_description:  to do
-#user_title: Astrophysics PhD student
+
 email: houda.physics@gmail.com
-# twitter_username: blackholephd
-#linkedin_username: 
-#github_username:  murraco
-# medium_username: lorem_ipsum
-# medium_url: lorem_ipsum.medium.com
-# gplus_username:  lorem_ipsum
 
-#exclude: ['package.json', 'src', 'node_modules', 'vendor']
 
-{% include footer.html %}
 
-# Navigation
-header_pages:
-  - README.md
-  - outreach.md
-  - research.md
-  # add any other pages you want in the navigation
