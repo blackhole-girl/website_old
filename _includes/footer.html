@@ -1,0 +1,29 @@
+<footer class="site-footer h-card">
+  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+
+  <div class="wrapper">
+
+    {% if site.github_username %}
+    <a href="https://github.com/{{ site.github_username }}" class="u-url icon before github"><i class="icon-github"></i></a>
+    {% endif %}
+
+    {% if site.twitter_username %}
+    <a href="https://twitter.com/{{ site.twitter_username }}" class="u-url icon before twitter"><i class="icon-twitter"></i></a>
+    {% endif %}
+
+    <a href="{{ "/feed.xml" | relative_url }}" class="u-url icon before rss"><i class="icon-rss"></i></a>
+
+    <div class="copyright">
+      <ul class="contact-list">
+        <li>{{ site.title | escape }}</li>
+        {% if site.email %}
+        <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+        {% endif %}
+      </ul>
+
+      <p>&copy; {{ site.time | date: '%Y' }} {{ site.author | escape }}. All rights reserved.</p>
+    </div>
+
+  </div>
+
+</footer>
