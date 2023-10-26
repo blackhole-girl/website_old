@@ -15,4 +15,10 @@ url: "https://blackhole-girl.github.io"
 email: houda.physics@gmail.com
 
 
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-postfiles
+
 
